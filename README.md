@@ -19,6 +19,11 @@ Set computer code in a monospaced font. For R and others with a C-like syntax, u
 
 **fine-grained**
 
+**pronouns**
+
+* Singular *they* is fine. 
+* If it's disallowed, avoid "he or she" and relatives. Try to use the plural of the noun and "they", or alternatively, just repeat the noun. In one of my articles, I used "the child" four times in a paragraph instead of resorting to "he or she".
+
 **University of Wisconsin–Madison, UW–Madison**
 
 With an en-dash.
