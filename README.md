@@ -38,7 +38,7 @@ R:
 
 * "We used the R programming language (vers. 3.6.1; R Core Team, 2019)."
 * `citation()` produces full citation information about R.
-* For reproducibility, use `r getRversion()` to get the version number.
+* For reproducibility, use `getRversion()` to get the version number.
 * If important computation was done on an earlier version of R—because you fit a huge model and saved the results and reload it and from it—then you should store that version number and the `sessionInfo()` with the model. Otherwise, looking up the R version dynamically will be misleading.
 
 Standardized tests with an abbreviation:
