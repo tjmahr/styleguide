@@ -1,5 +1,7 @@
 # styleguide
 
+## Style
+
 **age**
 
 * a five-year-old is five years old
@@ -59,5 +61,6 @@ When in doubt:
 ## Links
 
 * [APA blog post on writing about mathematical variables circa 2011](https://blog.apastyle.org/apastyle/2011/08/the-grammar-of-mathematics-writing-about-variables.html)
+* [Butterick's Practical Typography](https://practicaltypography.com/) is our definitive resource on typography.
 * [National Center on Disability and Journalism Disability Language Style Guide](https://ncdj.org/style-guide/)
 * [Serious Eats' list of banned words in food writing](https://www.seriouseats.com/2019/08/our-updated-list-of-banned-words.html). A fun example of a domain-specific style guide. You probably would recognize many food-writing cliches (*so decadent and addicting*), and many of these are banned with justification.
