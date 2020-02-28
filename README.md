@@ -30,6 +30,8 @@ Set computer code in a monospaced font. For R and others with a C-like syntax, u
 
 * Samples undergo forced alignment using a forced-alignment algorithm.
 
+**log-likelihood**
+
 **percentage (change)**
 
 * An increase from 10% to 20% favorability is a 100% increase or an increase of 10 percentage points.
