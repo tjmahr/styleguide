@@ -9,6 +9,13 @@
 * we tested twenty 7–9-year-olds
 * twenty children between 7 and 9 years of age
 
+Decimal years are bad when writing about children.
+
+* (no) Children were between 2.5 and 3.9 years of age.
+* Children were between ages 2;6 and 3;11 (years;months).
+
+Despite being common in developmental science, I can't find any style guidelines about at year;month convention.
+
 **code**
 
 Set computer code in a monospaced font. For R and others with a C-like syntax, use parentheses on function names.
@@ -18,6 +25,10 @@ Set computer code in a monospaced font. For R and others with a C-like syntax, u
 **eyetracking**
 
 **fine-grained**
+
+**forced alignment, forced-alignment software**
+
+* Samples undergo forced alignment using a forced-alignment algorithm.
 
 **percentage (change)**
 
