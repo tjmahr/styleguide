@@ -22,6 +22,10 @@ Set computer code in a monospaced font. For R and others with a C-like syntax, u
 
 * The command `print(message)` uses the `print()` function to display text stored in the `message` variable.
 
+**comparisons**
+
+Sometimes it's preferable to talk about *comparisons* rather than *effects*, notes [Andrew Gelman in an aside](https://statmodeling.stat.columbia.edu/2013/03/01/why-big-effects-are-more-important-than-small-effects/).
+
 **eyetracking**
 
 **fine-grained**
