@@ -51,6 +51,24 @@ Sometimes it's preferable to talk about *comparisons* rather than *effects*, not
 
 With an en-dash.
 
+## Punctuation and typography
+
+**nonbreaking space**
+
+These are spaces that prevent a line break, so that you don't get something like the stranded "1" in this text below:
+
+```
+The data are lovely. They are plotted in Figure
+1 for you to feast your eyes on.
+```
+
+* Use before =, <, so the symbol does not get stranded.
+* Inside numbered/lettered things like "Experiment 1" or "Fig. 1" (["before any numeric or alphabetic reference"](https://practicaltypography.com/nonbreaking-spaces.html)).
+* Before an abbreviated unit of measurement: "100 ms".
+* Some guides also insert them 
+* Ctrl+Shift+Space in MS Word (Windows), `&nbsp;` in HTML
+
+
 ## How to cite
 
 Software:
