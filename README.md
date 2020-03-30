@@ -38,6 +38,13 @@ Sometimes it's preferable to talk about *comparisons* rather than *effects*, not
 
 **make do**
 
+**onto, on to**
+
+* move on to the other question
+* go on to do other things
+* fall [onto](https://www.merriam-webster.com/dictionary/onto) the floor
+* climb onto the roof
+
 **percentage (change)**
 
 * An increase from 10% to 20% favorability is a 100% increase or an increase of 10 percentage points.
