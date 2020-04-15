@@ -42,6 +42,8 @@ Sometimes it's preferable to talk about *comparisons* rather than *effects*, not
 
 **make do**
 
+**mixed-effects model, (linear) mixed model**
+
 **onto, on to**
 
 * move on to the other question
