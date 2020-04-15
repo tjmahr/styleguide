@@ -26,6 +26,10 @@ Set computer code in a monospaced font. For R and others with a C-like syntax, u
 
 Sometimes it's preferable to talk about *comparisons* rather than *effects*, notes [Andrew Gelman in an aside](https://statmodeling.stat.columbia.edu/2013/03/01/why-big-effects-are-more-important-than-small-effects/).
 
+**different from, different than**
+
+[Both fine.](https://www.merriam-webster.com/words-at-play/different-from-or-different-than) Use what's best for sentence.
+
 **eyetracking**
 
 **fine-grained**
