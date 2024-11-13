@@ -39,6 +39,8 @@ Sometimes it's preferable to talk about *comparisons* rather than *effects*, not
 
 **fine-grained**
 
+**fixed effects model**
+
 **forced alignment, forced-alignment software**
 
 * Samples undergo forced alignment using a forced-alignment algorithm.
@@ -59,6 +61,10 @@ Sometimes it's preferable to talk about *comparisons* rather than *effects*, not
 **percentage (change)**
 
 * An increase from 10% to 20% favorability is a 100% increase or an increase of 10 percentage points.
+
+**posterior draws, posterior sample**
+
+A posterior *sample* is a collection of *draws*. This distinction works nicely with effective sample size which tells us the effective number of posterior draws for a parameter in this particular sample. 
 
 **pronouns**
 
