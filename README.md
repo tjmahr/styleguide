@@ -73,7 +73,7 @@ A posterior *sample* is a collection of *draws*. This distinction works nicely w
 
 **University of Wisconsin–Madison, UW–Madison**
 
-With an en-dash.
+With an en-dash. [UW–Madison style guide](https://editorial-styleguide.strategiccommunication.wisc.edu/alpha/u/).
 
 **WAIC**
 
