@@ -11,10 +11,15 @@
 
 Decimal years are bad when writing about children.
 
-* (no) Children were between 2.5 and 3.9 years of age.
+* ❌ Children were between 2.5 and 3.9 years of age.
 * Children were between ages 2;6 and 3;11 (years;months).
 
-Despite being common in developmental science, I can't find any style guidelines about at year;month convention.
+Despite being common in developmental science, I can't find any style guidelines about the year;month convention.
+
+**apostrophe**
+
+- Bayes' theorem (regrettably)
+- Jeffreys prior
 
 **code**
 
@@ -64,6 +69,13 @@ Sometimes it's preferable to talk about *comparisons* rather than *effects*, not
 
 With an en-dash.
 
+**WAIC**
+
+WAIC stands for "Widely Applicable Information Criterion". Some say "Watanabe–Akaike information criterion" but Watanabe uses "widely applicable" [in articles](https://arxiv.org/abs/1004.2316). 
+
+
+
+
 ## Punctuation and typography
 
 **nonbreaking space**
@@ -78,7 +90,7 @@ The data are lovely. They are plotted in Figure
 * Use before =, <, so the symbol does not get stranded.
 * Inside numbered/lettered things like "Experiment 1" or "Fig. 1" (["before any numeric or alphabetic reference"](https://practicaltypography.com/nonbreaking-spaces.html)).
 * Before an abbreviated unit of measurement: "100 ms".
-* Some guides also insert them 
+* Some guides also insert them after titles like "Dr.".
 * Ctrl+Shift+Space in MS Word (Windows), `&nbsp;` in HTML
 
 
